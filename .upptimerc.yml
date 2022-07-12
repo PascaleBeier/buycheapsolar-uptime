@@ -18,6 +18,7 @@ status-website:
   name: Buy Cheap Solar
   introTitle: "**Buy Cheap Solar** Uptime Monitor."
   introMessage: Measuring homepage, shop and checkout
+  baseUrl: /buycheapsolar-uptime
   navbar:
     - title: Status
       href: /
